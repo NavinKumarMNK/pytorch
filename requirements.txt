@@ -10,7 +10,7 @@ setuptools
 types-dataclasses
 typing-extensions
 sympy
-mpmath=1.3.0
+mpmath==1.3.0
 filelock
 networkx
 jinja2
